@@ -4,3 +4,6 @@ it creates a hidden file inside the driectory named .git and there are nocommits
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It lets you choose
+
+How can you use the staging area to make sure you have one commit per logical change?
+will add files to staging area that have something in common
