@@ -1,0 +1,28 @@
+Comparison helped to find out the difference between two files.
+
+How could having easy access to the entire history of a file make you a more efficient
+programmer in the long term?
+
+Coz we can record the changes made each day and whenever we want to trace back 
+and see what changes we have made we can go to the different versions of a file.
+
+What do you think are the pros and cons of manually choosing when to create a commit,
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros: u get to decide when to save version
+cons: u myt forget that you need to save it
+
+Why do you think some vcs, like Git, allow saving multiple files in one
+commit, while others, like Google Docs, treat each file separately?
+
+Coz App codes are composed of number of differnet files.
+
+How you can use the commands git log and git diff to view the history of files?
+git log to see different commit versions
+git dif to compare two different versions
+
+
+
+
+
+
