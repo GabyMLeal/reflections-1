@@ -7,3 +7,6 @@ It lets you choose
 
 How can you use the staging area to make sure you have one commit per logical change?
 will add files to staging area that have something in common
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+- it helps in making different versions of ur project
