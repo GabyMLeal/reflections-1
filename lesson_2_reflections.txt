@@ -10,3 +10,11 @@ will add files to staging area that have something in common
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 - it helps in making different versions of ur project
+
+How do the diagrams help you visualize the branch structure?
+jus helps
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+- we get new master that contains all the commits from 2 different branches. 
+
+
