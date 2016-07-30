@@ -3,3 +3,8 @@ So that I can access it from wherever I want
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 So that I can get to choose if that is what I want to Sych up.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+fork - done only on GitHub
+Clones - can be done on remote as well as local
+Branches - done to add new feature or experiment on something
