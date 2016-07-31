@@ -15,3 +15,6 @@ It helps you decide what exactly do you want to merge.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 By sharing files on shared path.
 Using GitHub is definately a lot easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+when i am expertimenting wid some new feature that is not expected but i wanna do it.
