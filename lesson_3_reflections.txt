@@ -11,3 +11,7 @@ Branches - done to add new feature or experiment on something
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It helps you decide what exactly do you want to merge.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+By sharing files on shared path.
+Using GitHub is definately a lot easier.
